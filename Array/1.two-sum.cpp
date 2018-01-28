@@ -1,5 +1,3 @@
-// https://leetcode.com/problems/two-sum/description/
-
 // Time: O(n), Space: O(n)
 class Solution {
 public:
