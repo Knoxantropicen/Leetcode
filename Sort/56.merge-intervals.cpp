@@ -9,7 +9,7 @@
  */
 bool comp(const Interval& i1, const Interval& i2) { return i1.start < i2.start; }
 
-// Time: O(n*log(n)), Space: O(1)
+// Time: O(n*log(n)), Space: O(log(n))
 class Solution {
 public:
     vector<Interval> merge(vector<Interval>& intervals) {

@@ -1,4 +1,4 @@
-// Time: O(n*log(n)), Space: O(1)
+// Time: O(n*log(n)), Space: O(log(n))
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {

@@ -1,4 +1,4 @@
-// Time: O(n^2), Space: O(1)
+// Time: O(n^2), Space: O(log(n))
 class Solution {
 public:
     int threeSumClosest(vector<int>& nums, int target) {
